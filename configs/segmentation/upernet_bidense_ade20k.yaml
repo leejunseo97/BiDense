@@ -1,6 +1,6 @@
 DATASET:
   DATASET: 'ade20k'
-  DATA_PATH: '../dataset'
+  DATA_PATH: './datasets'
 
 TRAINING:
   NUM_THREADS: 16

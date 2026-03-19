@@ -1,7 +1,7 @@
 **/__pycache__
 /lightning_logs
 /_lightning_logs
-*.ipynb
+
 /ade20k_result
 /kitti_results
 /ade20k_dpt_results
